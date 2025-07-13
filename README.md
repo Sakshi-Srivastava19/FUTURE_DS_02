@@ -3,7 +3,7 @@
 
 🚀 A dynamic and interactive Power BI dashboard built to track, analyze, and visualize the performance of Facebook ad campaigns — as part of the **Data Science & Analytics Internship Task 2 by Future Interns**.
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](dashboard.mp4)
 
 ---
 
